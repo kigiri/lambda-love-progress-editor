@@ -5,6 +5,10 @@
 // collection is the array for the first test
 const each = (fn, collection) => {
   // ???
+  var i = -1
+  const max = collection.length
+  
+  while (++i < max) { break }
 }
 
 // if you are not familiar with ES6 arrow functions
